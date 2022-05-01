@@ -28,8 +28,8 @@ and make your fantasy colorful, blinking, illustrative.<br><br>
 Some techniques:<br>
 - to erase a character, use "BS sp BS". This is the standard implementation:<br>
 https://unix.stackexchange.com/questions/414159/behaviour-of-the-backspace-on-terminal
-- to put delay (for BEL's effect, e.g.), use "NUL NUL NUL". Nostalgic! XD
-- put ENQ, ACK, NAK etc; these do not have any effect,
+- to put delay (for BEL's effect, e.g.), use "NUL NUL NUL". Nostalgic.
+- put ENQ, ACK, NAK etc; these do not have any effect,<br>
 but enthusiasts will notice the subtle communication in the code,<br>
 and grin happily<br><br>
 
