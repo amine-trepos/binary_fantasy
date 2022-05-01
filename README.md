@@ -5,7 +5,7 @@ This project provides a new CLI fantasy style called binary fantasy.<br>
 For ASCII enthusiasts.<br>
 A binary fantasy is requested to be written:
 - by arranging plain text binary codes of ASCII (e.g. 01000001 01000010 01000011)
-- in one line (no LF by your keyboard)
+- in one line (no LFing by your enter key)
 - in 8-bit ASCII (00000000 ~ 01111111)
 - ANSI escape sequence is OK.<br><br>
 
