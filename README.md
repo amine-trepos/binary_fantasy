@@ -34,5 +34,6 @@ https://unix.stackexchange.com/questions/414159/behaviour-of-the-backspace-on-te
 but enthusiasts will notice the subtle communication in the code,<br>
 and grin happily<br><br>
 
-This is free software.<br>
+This software (reader and sample fantasies, all files in this repository)<br>
+is released under license GNU GPL v3.0.<br>
 Please look into LICENSE and the license notice in the source code file.
